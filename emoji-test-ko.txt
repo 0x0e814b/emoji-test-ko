@@ -4779,7 +4779,7 @@
 2721                                                   ; unqualified         # ✡ E0.7 다윗의 별
 2638 FE0F                                              ; fully-qualified     # ☸️ E0.7 다르마의 바퀴
 2638                                                   ; unqualified         # ☸ E0.7 다르마의 바퀴
-262FFE0F                                               ; fully-qualified     # ☯️ E0.7 음양
+262F FE0F                                               ; fully-qualified     # ☯️ E0.7 음양
 262F                                                   ; unqualified         # ☯ E0.7 음양
 271D FE0F                                              ; fully-qualified     # ✝️ E0.7 라틴 십자가
 271D                                                   ; unqualified         # ✝ E0.7 라틴 십자가
@@ -4883,13 +4883,13 @@
 2695                                                  ; unqualified         # ⚕ E4.0 의료 기호
 267B FE0F                                             ; fully-qualified     # ♻️ E0.6 재활용 기호
 267B                                                  ; unqualified         # ♻ E0.6 재활용 심볼
-269CFE0F                                              ; fully-qualified     # ⚜️ E1.0 백합 문양
+269C FE0F                                             ; fully-qualified     # ⚜️ E1.0 백합 문양
 269C                                                  ; unqualified         # ⚜ E1.0 백합 문양
 1F531                                                 ; fully-qualified     # 🔱 E0.6 삼지창 문양
 1F4DB                                                 ; fully-qualified     # 📛 E0.6 이름 배지
 1F530                                                 ; fully-qualified     # 🔰 E0.6 초보자를 위한 일본어 기호
 2B55                                                  ; fully-qualified     # ⭕ E0.6 빨간색 원
-2705 ​​                                                 ; fully-qualified     # ✅ E0.6 체크 표시 버튼
+2705                                                  ; fully-qualified     # ✅ E0.6 체크 표시 버튼
 2611 FE0F                                             ; fully-qualified     # ☑️ E0.6 체크 박스에 체크 표시
 2611                                                  ; unqualified         # ☑ E0.6 체크박스 체크
 2714 FE0F                                             ; fully-qualified     # ✔️ E0.6 체크 표시
