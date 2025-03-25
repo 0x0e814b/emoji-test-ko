@@ -147,7 +147,7 @@
 1F627                                                  ; fully-qualified     # 😧 E1.0 괴로운 얼굴
 1F628                                                  ; fully-qualified     # 😨 E0.6 무서운 얼굴
 1F630                                                  ; fully-qualified     # 😰 E0.6 땀이 나는 불안한 얼굴
-1F625 ​​                                                 ; fully-qualified     # 😥 E0.6 슬프지만 안도한 얼굴
+1F625                                                  ; fully-qualified     # 😥 E0.6 슬프지만 안도한 얼굴
 1F622                                                  ; fully-qualified     # 😢 E0.6 울음 얼굴
 1F62D                                                  ; fully-qualified     # 😭 E0.6 크게 울고 있는 얼굴
 1F631                                                  ; fully-qualified     # 😱 E0.6 얼굴 공포에 비명 지르다
